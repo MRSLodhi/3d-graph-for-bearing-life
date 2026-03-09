@@ -47,8 +47,8 @@ fig.add_scatter3d(
 
 fig.update_layout(
     scene=dict(
-        xaxis_title='Mechanical Load',
-        yaxis_title='Electrical Load',
+        xaxis_title='Mechanical Load (kN)',
+        yaxis_title='Electrical Load (A)',
         zaxis_title='Bearing Life (Million Revolutions)'
     ),
     height=700
