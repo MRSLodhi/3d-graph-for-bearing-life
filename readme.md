@@ -1,1 +1,1 @@
-this ids for 3D cureve of bearing life
+this is for 3D cureve of bearing life
