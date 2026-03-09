@@ -10,8 +10,8 @@ a = 1.5
 b = 1.2
 
 # Sliders
-mechanical_load = st.slider("Mechanical Load", 1.0, 10.0, 5.0)
-electrical_load = st.slider("Electrical Load", 1.0, 5.0, 2.0)
+mechanical_load = st.slider("Mechanical Load (kN)", 1.0, 10.0, 5.0)
+electrical_load = st.slider("Electrical Load (A)", 1.0, 5.0, 2.0)
 
 # Create surface data
 m = np.linspace(1,10,50)
